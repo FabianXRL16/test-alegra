@@ -38,5 +38,12 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "keywords": [
+    "test"
+  ],
+  "author": "Fabian Pacherres",
+  "license": "MIT"
 }
